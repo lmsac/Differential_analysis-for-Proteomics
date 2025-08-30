@@ -22,6 +22,7 @@ The following Python packages integrated in Anaconda:
 
 ## Usage
 ——————————————————————————————————————————
+
 Prepare a protein quantification data for your benchmark.
 You can also use the data provided in our publication.
 please refer to our publication or the main.py file for further information.
@@ -32,9 +33,10 @@ For result calculate and threshold decision please refer to utils/aucroc.py and 
 
 ## License
 ——————————————————————————————————————————
-This project is distributed under a MIT license. See the LICENSE file for details.
 
+This project is distributed under a MIT license. See the LICENSE file for details.
 
 ## Contacts
 ——————————————————————————————————————————
+
 Please report any problems directly to the github issue tracker. Also, you can send feedback to liang_qiao@fudan.edu.cn.
