@@ -16,6 +16,7 @@ parser.add_argument(
 parser.add_argument(
     '--process', '-p',
     type=bool,
+    default=1,
     help='Whether the data need to be processed (e.g. fill missing value log transformation)'
 )
 parser.add_argument(
